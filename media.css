@@ -1,0 +1,261 @@
+@media(max-width: 1400px) {
+    .tc-img {
+        width: 100%;
+    }
+    .Customer-feedback-section {
+        height: auto;
+    }
+    .our-news-section {
+        height: auto;
+    } 
+}
+ /* MEdia Queary  */
+ @media(max-width: 1200px) {
+    header {
+        width: 100%;  
+    }
+    .main-nav {
+        width: 100%;     
+    }
+    .container {
+        width: 100%;
+    }
+    .ct-ph {
+         width: 94%;
+    }
+    .ct-img {
+        width: 100%;
+        height: auto;
+        height: auto;
+    }
+    .testimonial {
+        width: 100%;
+    }
+    .tc-img {
+        width: 100%;
+        height: auto;
+    }
+    .services-section {
+        height: auto;
+    }
+    .testimonial-section {
+        height: auto;
+    }
+    .short-pro {
+        top: 62%;      
+    }
+   .Feature-section {
+       height: auto;
+   }
+   .Feature-section {
+   height: auto;
+    }  
+}
+/* MEdia Queary  */
+@media(max-width: 992px) {
+    .br-hd {
+        font-size: 3rem;
+        width: 73%;
+    }
+    .quote-section {
+        height: auto;
+    }
+    .quote {
+        flex-direction: column;
+    }
+    .quote .bn-btn {
+        margin: 1rem;
+    }   
+    .main-question {
+        flex-direction: column;
+    }
+    .question-part {
+        margin: 1rem 0rem;
+        height: auto;
+    }
+    .active5 {
+        width: 100%;
+        font-size: 1rem;
+    }
+}
+/* MEdia Queary  */
+@media(max-width: 786px) {
+    ul li {
+        padding: 0rem 1rem;       
+    }
+    .br-ph {
+        width: 64%;      
+    }
+    .main-nav {
+        width: 100%;
+        height: auto;
+    }
+    header { 
+        height: auto;
+    }
+    .address-section {
+        height: 45rem;     
+    }
+    .main-address-bar {
+        display: grid;
+        grid-template-columns: auto auto;
+        align-items: center;
+        justify-content: center;
+        padding-left: 10%;
+        top: 10%;
+    }
+    .future {
+        padding-top: 1rem;
+    }
+    .banner {
+       
+        padding-top: 6rem;
+    }
+}
+/* MEdia Queary  */
+@media(max-width: 576px) {
+    nav {
+        text-align: center;
+       display: inherit;
+    }
+    ul {
+        justify-content: center;
+        flex-direction: column;
+        padding: 1rem 0rem;
+    }
+    .search {
+        height: 2rem;
+        width: 2rem;
+        margin: auto;
+    }
+    ul li {
+        padding: 2rem 0rem;
+    }
+    nav {
+        height: 34rem;
+        margin: 0rem;
+    }
+    .br-hd {
+        font-size: 2rem;
+        width: 63%;
+    }
+    .br-ph {
+        width: auto;
+    }
+    .services-cart {
+        flex-direction: column;
+     }
+     .testimonial {
+        display: flex;
+        flex-direction: column;
+    }
+    .sc-ph2 {
+        width: 100%;      
+        padding: 1rem 1rem;
+    }
+    .future-design {     
+        flex-direction: column;
+    }
+    .question-part {
+        flex-direction: column;
+    }
+    .sc-ph3 {
+        margin: 1rem;
+    }
+    .question h5 {
+        margin: 1rem;
+    }
+    .style {
+        flex-direction: column;
+    }
+    .our-news .sc-ph2 {
+        width: auto;
+    }
+    .Customer-feedback-section .sc-ph2 {
+        width: auto;
+    }
+    .main-new {
+        flex-direction: column;
+    }
+    .sc-ph {
+        width: 100%;
+    }
+    .address-section {
+        height: 59rem;
+    }
+    .footer-section {
+        height: 28rem;
+    }
+    .ft-ph {
+       
+        padding: 1rem 0rem;
+    }
+    .logo {
+        
+        padding: 1rem 0rem;
+    }
+    .banner-row {
+        padding: 0rem 1rem;
+    }
+    .cart {
+        
+        padding: 0rem 1rem;
+    }
+    .style {
+       
+        margin: 1rem 1rem;
+    }
+    .style-section {
+        height: auto;
+    }
+    h1 {
+        font-size: 2rem;
+       
+    }
+    .short-pro {
+        top: 73%;
+    }
+    .quote-ph {
+        font-size: 1rem;
+        
+    }
+   
+
+}
+/* MEdia Queary  */
+@media(max-width: 412px) {
+    .br-hd {
+        font-size: 2rem;
+        width: auto;
+    }
+    .short-pro {
+        /* height: auto; */
+        top: 73%;
+    }
+    .count h3 {    
+        font-size: 1rem;
+    }
+    .address-section {
+        height: 69rem;
+    }
+    .main-address-bar {
+        grid-template-columns: auto;
+        padding-left: 18%;
+    }
+    .short-pro {
+        top: 63%;
+    }
+    
+}
+/* MEdia Queary  */
+@media(max-width: 360px) {
+    .bn-btn {
+        width: 100%;
+        height: auto;
+    }
+    .address-section {
+        height: 75rem;
+    }
+}
+
+

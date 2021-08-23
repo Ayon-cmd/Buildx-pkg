@@ -42,6 +42,8 @@ ul li a {
 }
 .search {
     cursor: pointer;
+    height: 1.2rem;
+    width: 2rem;
 }
 .actives {
     color: #fab702;
@@ -540,3 +542,4 @@ time {
     height: 3.7rem;
 }
 
+/* -- Alhamdulillah  -- */
